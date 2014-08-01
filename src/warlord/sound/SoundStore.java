@@ -15,7 +15,6 @@ import org.lwjgl.openal.AL;
 import org.lwjgl.openal.AL10;
 import org.lwjgl.openal.OpenALException;
 
-import warlord.ingame.ObjectLoading;
 import warlord.opengl.Game;
 
 /**

@@ -7,8 +7,6 @@ import java.nio.ByteBuffer;
 
 import org.lwjgl.BufferUtils;
 
-import warlord.ingame.ObjectLoading;
-
 public class SerializableSoundWrapper implements Serializable {
 
 	private static final long serialVersionUID = -2935753709687008752L;
